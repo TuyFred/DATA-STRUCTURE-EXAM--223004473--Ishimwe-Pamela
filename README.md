@@ -29,7 +29,7 @@ Efficient data structures are critical for managing medicine orders, inventory, 
 
 ## Folder Structure
 ```
-DATA-STRUCTURE-EXAMPLES
+DATA-STRUCTURE-Exam
 ├── Topic2
 ├── Topic3
 │   ├── avl_tree.py
